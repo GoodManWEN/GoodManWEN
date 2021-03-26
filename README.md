@@ -11,7 +11,7 @@ https://nazorip.site
 admin@nazorip.site
 ```
 <img align="left" src="https://github-stat.alpaca.run/api?username=GoodManWEN&show_icons=true&line_height=24&card_width=200"/>
-<img alian="right" src="https://github-stat.alpaca.run/api/top-langs?username=goodmanwen&layout=compact&langs_count=8&card_width=445"/>
+<img alian="right" src="https://github-stat.alpaca.run/api/top-langs?username=goodmanwen&layout=compact&langs_count=8&card_width=200"/>
 
 <details>
  <summary><b>More...</b></summary>  
