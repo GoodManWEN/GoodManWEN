@@ -2,7 +2,7 @@
 
 ### 👷 **Full Stack Developer**  
 ### 📊 Data Science & High Performance Computing
-👇 Feel free to connect with me.
+👇 Feel free to connect me.
 ```bash
 admin@nazorip.site
 ```
