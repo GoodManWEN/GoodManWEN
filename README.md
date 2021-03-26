@@ -2,10 +2,6 @@
 
 ### 👷 **Full Stack Developer**  
 ### 📊 Data Science & High Performance Computing
-👇 Blog
-```bash
-https://nazorip.site
-```
 👇 Feel free to connect with me.
 ```bash
 admin@nazorip.site
