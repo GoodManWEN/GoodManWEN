@@ -1,7 +1,7 @@
 <h1>Hi👋, this is WEN</h1>
 
 ### 👷 **Full Stack Developer**  
-### 🤵 Data Science & High Performance Computing
+### 📊 Data Science & High Performance Computing
 👇 Blog
 ```bash
 https://nazorip.site
@@ -10,8 +10,8 @@ https://nazorip.site
 ```bash
 admin@nazorip.site
 ```
-<img align="left" src="https://github-stat.alpaca.run/api?username=GoodManWEN&show_icons=true&line_height=24&card_width=200"/>
-<img alian="right" src="https://github-stat.alpaca.run/api/top-langs?username=goodmanwen&layout=compact&langs_count=8&card_width=200"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=GoodManWEN&show_icons=true&line_height=24"/>
+<img alian="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=goodmanwen&layout=compact&langs_count=8&card_width=300"/>
 
 <details>
  <summary><b>More...</b></summary>  
@@ -46,8 +46,6 @@ Tools
 ![TravisCI](https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=flat&logo=travis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flate&logo=nginx&logoColor=white)
-![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=flat&logo=github&logoColor=white)
-
 
 Others  
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
