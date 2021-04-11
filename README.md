@@ -13,7 +13,7 @@ admin@nazorip.site
  <summary><b>More...</b></summary>  
     
 ## 😎 A Little More About Me...  
-
+![](https://www.codewars.com/users/GoodManWEN/badges/large)
 ```go
 GoodManWEN := &Info {
     Name: "WEN",
