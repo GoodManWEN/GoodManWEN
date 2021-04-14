@@ -4,7 +4,7 @@
 ### 📊 Data Science & High Performance Computing
 Feel free to connect me.
 ```bash
-admin@nazorip.site
+wen@nazorip.site
 ```
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=GoodManWEN&show_icons=true&line_height=24"/>
 <img alian="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=goodmanwen&layout=compact&langs_count=8&card_width=286"/>
